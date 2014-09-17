@@ -1,0 +1,16 @@
+{
+  "name": "browser",
+  "version": "1.0.0",
+  "main": [
+    "dist/browser.min.js"
+  ],
+  "ignore": [
+    "*", "!dist/*.js"
+  ],
+  "dependencies": {
+    "requirejs": "latest",
+    "almond": "latest",
+    "scalejs": "lisovin/scalejs"
+  }
+}
+
