@@ -32,7 +32,7 @@ require.config({
 
 require(['boot'], function () {
     require ([
-        '../test/browser.test'
+        '../test/browser'
     ], function () {
         window.onload();
     });
