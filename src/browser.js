@@ -1,4 +1,4 @@
-require(['scalejs!core'], function(core) {
+define(['scalejs!core'], function(core) {
   var self;
   self = (function(ua) {
     var android, breakdown, firstMatch, getVersion, iosdevice, likeAndroid, mobile, osmajor, osversion, result, tablet, test, versionIdentifier;

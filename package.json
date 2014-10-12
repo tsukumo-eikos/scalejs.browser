@@ -1,6 +1,6 @@
 {
   "name": "browser",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "dependencies": {
     "bower": "^1.3.9",
     "coffeelint": "^1.6.0",

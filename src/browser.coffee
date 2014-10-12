@@ -4,7 +4,7 @@
 
 # global require
 
-require ['scalejs!core'], (core) ->
+define ['scalejs!core'], (core) ->
 
     self = (( ua ) ->
 
